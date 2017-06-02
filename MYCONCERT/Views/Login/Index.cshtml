@@ -55,7 +55,7 @@
 
                         <div class="row">
                             <div class="col-sm-7">
-                                <button type="button" class="btn btn-danger btn-lg btn-block">Iniciar sesion</button>
+                                @Html.ActionLink("Iniciar sesion", "/RegistrarUsuario", null, new { @class = "btn btn-danger btn-lg btn-block" })
                             </div>
 
                         </div>
@@ -80,8 +80,7 @@
                             <p class="h2" style="text-align:center">NO TIENE UNA CUENTA ?</p>
                         </div>
                         <div>
-
-                            <button type="button" class="btn btn-default ">Registrese a MyConcert</button>
+                            @Html.ActionLink("Registrese a MyConcert", "/RegistrarUsuario", null, new { @class = "btn btn-primary" })
                         </div>
                     </center>
 
