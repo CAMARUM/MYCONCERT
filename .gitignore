@@ -48,3 +48,4 @@ Temporary Items
 *.config
 .vs/MYCONCERT/v14/.suo
 *.config
+MYCONCERT/obj/Debug/MYCONCERT.csprojResolveAssemblyReference.cache
