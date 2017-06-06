@@ -9,7 +9,6 @@ namespace MYCONCERT.Negocio
     {
         public void getPaisAll()
         {
-            PaisDA = null;
         }
     }
 }
