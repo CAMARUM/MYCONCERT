@@ -1,0 +1,1 @@
+C:\Users\elbarto\Source\Repos\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.csprojResolveAssemblyReference.cache

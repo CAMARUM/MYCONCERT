@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyConcertDBModelStoreContainer" CdmEntityContainer="MyConcertDBEntities">
+    <FunctionImportMapping FunctionImportName="P_IniSesion" FunctionName="MyConcertDBModel.Store.P_IniSesion" />
+    <FunctionImportMapping FunctionImportName="P_RegistrarCategoria" FunctionName="MyConcertDBModel.Store.P_RegistrarCategoria" />
+    <FunctionImportMapping FunctionImportName="P_RegistrarColaborador" FunctionName="MyConcertDBModel.Store.P_RegistrarColaborador" />
+    <FunctionImportMapping FunctionImportName="P_RegistrarFanatico" FunctionName="MyConcertDBModel.Store.P_RegistrarFanatico" />
+    <FunctionImportMapping FunctionImportName="P_RegistrarGeneroMusical" FunctionName="MyConcertDBModel.Store.P_RegistrarGeneroMusical" />
+    <FunctionImportMapping FunctionImportName="P_RegistrarPais" FunctionName="MyConcertDBModel.Store.P_RegistrarPais" />
+    <FunctionImportMapping FunctionImportName="P_V_Colaborador" FunctionName="MyConcertDBModel.Store.P_V_Colaborador">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MyConcertDBModel.P_V_Colaborador_Result">
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+          <ScalarProperty Name="Contrasena" ColumnName="Contrasena" />
+          <ScalarProperty Name="FechaInscripcion" ColumnName="FechaInscripcion" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="ApellidoUsuario" ColumnName="ApellidoUsuario" />
+          <ScalarProperty Name="TipoUsuario" ColumnName="TipoUsuario" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="P_V_Fanatico" FunctionName="MyConcertDBModel.Store.P_V_Fanatico">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MyConcertDBModel.P_V_Fanatico_Result">
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+          <ScalarProperty Name="Contrasena" ColumnName="Contrasena" />
+          <ScalarProperty Name="FechaInscripcion" ColumnName="FechaInscripcion" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="ApellidoUsuario" ColumnName="ApellidoUsuario" />
+          <ScalarProperty Name="TipoUsuario" ColumnName="TipoUsuario" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="PaisFanatico" ColumnName="PaisFanatico" />
+          <ScalarProperty Name="UbicacionFanatico" ColumnName="UbicacionFanatico" />
+          <ScalarProperty Name="Universidad" ColumnName="Universidad" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="URL_Foto" ColumnName="URL_Foto" />
+          <ScalarProperty Name="DescripcionPersonal" ColumnName="DescripcionPersonal" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="P_V_Pais" FunctionName="MyConcertDBModel.Store.P_V_Pais">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MyConcertDBModel.P_V_Pais_Result">
+          <ScalarProperty Name="IdPais" ColumnName="IdPais" />
+          <ScalarProperty Name="NombrePais" ColumnName="NombrePais" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
