@@ -15,6 +15,7 @@ namespace MYCONCERT.Controllers
         }
 
         public ActionResult RegistrarUsuario() {
+            System.Console.WriteLine("Hi!");
             return View();
         }
     }
