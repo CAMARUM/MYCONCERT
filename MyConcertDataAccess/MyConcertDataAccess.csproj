@@ -51,25 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyConcertDataModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MyConcertDataModel.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="MyConcertDataModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MyConcertDataModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="MyConcertDataModel.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="PaisModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PaisModel.Context.tt</DependentUpon>
     </Compile>
     <Compile Include="PaisModel.cs">
       <AutoGen>True</AutoGen>
@@ -101,21 +86,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MyConcertDataModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>MyConcertDataModel.Context.cs</LastGenOutput>
-      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
-    </Content>
-    <Content Include="MyConcertDataModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
-      <LastGenOutput>MyConcertDataModel.cs</LastGenOutput>
-    </Content>
-    <Content Include="PaisModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>PaisModel.Context.cs</LastGenOutput>
-      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
-    </Content>
     <Content Include="PaisModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>PaisModel.cs</LastGenOutput>
