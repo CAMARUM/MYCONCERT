@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyConcertDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MyConcertDBEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="P_IniSesion">
+      <Parameter Name="Correo" Mode="In" Type="String" />
+      <Parameter Name="Contrasena" Mode="In" Type="String" />
+      <Parameter Name="TipoUsuario" Mode="InOut" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="P_RegistrarCategoria">
+      <Parameter Name="NombreCategoria" Mode="In" Type="String" />
+      <Parameter Name="Exito" Mode="InOut" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="P_RegistrarColaborador">
+      <Parameter Name="Correo" Mode="In" Type="String" />
+      <Parameter Name="Contrasena" Mode="In" Type="String" />
+      <Parameter Name="NombreUsuario" Mode="In" Type="String" />
+      <Parameter Name="ApellidoUsuario" Mode="In" Type="String" />
+      <Parameter Name="Exito" Mode="InOut" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="P_RegistrarFanatico">
+      <Parameter Name="Correo" Mode="In" Type="String" />
+      <Parameter Name="Contrasena" Mode="In" Type="String" />
+      <Parameter Name="NombreUsuario" Mode="In" Type="String" />
+      <Parameter Name="ApellidoUsuario" Mode="In" Type="String" />
+      <Parameter Name="PaisFanatico" Mode="In" Type="String" />
+      <Parameter Name="UbicacionFanatico" Mode="In" Type="String" />
+      <Parameter Name="Universidad" Mode="In" Type="String" />
+      <Parameter Name="Telefono" Mode="In" Type="String" />
+      <Parameter Name="URL_Foto" Mode="In" Type="String" />
+      <Parameter Name="DescripcionPersonal" Mode="In" Type="String" />
+      <Parameter Name="FechaNacimiento" Mode="In" Type="DateTime" />
+      <Parameter Name="Exito" Mode="InOut" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="P_RegistrarGeneroMusical">
+      <Parameter Name="NombreGeneroMusical" Mode="In" Type="String" />
+      <Parameter Name="Exito" Mode="InOut" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="P_RegistrarPais">
+      <Parameter Name="NombrePais" Mode="In" Type="String" />
+      <Parameter Name="Exito" Mode="InOut" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="P_V_Colaborador" ReturnType="Collection(MyConcertDBModel.P_V_Colaborador_Result)">
+      <Parameter Name="IdUsuario" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="P_V_Fanatico" ReturnType="Collection(MyConcertDBModel.P_V_Fanatico_Result)">
+      <Parameter Name="IdUsuario" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="P_V_Pais" ReturnType="Collection(MyConcertDBModel.P_V_Pais_Result)" />
+  </EntityContainer>
+  <ComplexType Name="P_V_Colaborador_Result">
+    <Property Type="Int32" Name="IdUsuario" Nullable="false" />
+    <Property Type="String" Name="Correo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Contrasena" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="FechaInscripcion" Nullable="false" Precision="23" />
+    <Property Type="String" Name="NombreUsuario" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="ApellidoUsuario" Nullable="false" MaxLength="30" />
+    <Property Type="Boolean" Name="TipoUsuario" Nullable="false" />
+    <Property Type="Boolean" Name="Activo" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="P_V_Fanatico_Result">
+    <Property Type="Int32" Name="IdUsuario" Nullable="false" />
+    <Property Type="String" Name="Correo" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Contrasena" Nullable="false" MaxLength="8" />
+    <Property Type="DateTime" Name="FechaInscripcion" Nullable="false" Precision="23" />
+    <Property Type="String" Name="NombreUsuario" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="ApellidoUsuario" Nullable="false" MaxLength="30" />
+    <Property Type="Boolean" Name="TipoUsuario" Nullable="false" />
+    <Property Type="Boolean" Name="Activo" Nullable="false" />
+    <Property Type="String" Name="PaisFanatico" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="UbicacionFanatico" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="Universidad" Nullable="true" MaxLength="30" />
+    <Property Type="String" Name="Telefono" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="URL_Foto" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DescripcionPersonal" Nullable="false" MaxLength="300" />
+    <Property Type="DateTime" Name="FechaNacimiento" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="P_V_Pais_Result">
+    <Property Type="Int32" Name="IdPais" Nullable="false" />
+    <Property Type="String" Name="NombrePais" Nullable="false" MaxLength="30" />
+  </ComplexType>
+</Schema>
