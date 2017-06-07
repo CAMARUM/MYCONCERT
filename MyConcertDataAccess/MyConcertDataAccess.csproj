@@ -71,6 +71,11 @@
     <Compile Include="P_V_Pais_Result.cs">
       <DependentUpon>PaisModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="MyConcertDataModel.edmx">
@@ -79,11 +84,15 @@
     </EntityDeploy>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.Config" />
+    <None Include="app.config" />
     <None Include="MyConcertDataModel.edmx.diagram">
       <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
+    <None Include="Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="PaisModel.tt">

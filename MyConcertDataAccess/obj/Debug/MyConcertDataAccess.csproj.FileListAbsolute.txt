@@ -1,9 +1,10 @@
 C:\Users\elbarto\Source\Repos\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.csprojResolveAssemblyReference.cache
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\MyConcertDataAccess.dll.config
+D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\MyConcertDataAccess.dll
+D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\MyConcertDataAccess.pdb
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.SqlServer.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.xml
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.SqlServer.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.csprojResolveAssemblyReference.cache
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.pdb

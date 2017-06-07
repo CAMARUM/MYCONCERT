@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\ApplicationInsights.config
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\csc.exe
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -48,60 +47,5 @@ D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Razor.resources.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Helpers.resources.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Mvc.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
-=======
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\ApplicationInsights.config
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\csc.exe
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\vbc.exe
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll.config
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\MYCONCERT.pdb
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Razor.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Razor.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.xml
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Razor.resources.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.resources.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Deployment.resources.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Razor.resources.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Helpers.resources.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Mvc.resources.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
-C:\Users\elbarto\Source\Repos\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
->>>>>>> b037b957d0d2c67b9ece1b71448a79a6acb2d771
