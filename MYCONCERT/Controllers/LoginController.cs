@@ -10,7 +10,7 @@ namespace MYCONCERT.Controllers
 {
     public class LoginController : Controller
     {
-        private N_Pais  paisNegocio = new N_Pais();
+        private N_Pais  _paisNegocio = new N_Pais();
         // GET: Login
         public ActionResult Index()
         {
@@ -26,7 +26,7 @@ namespace MYCONCERT.Controllers
             }
             System.Diagnostics.Debug.WriteLine("Entro Entro");
 
-            var result = paisNegocio.getPaisAll(model);
+            var result = _paisNegocio.getPaisAll(model);
             if (result == 1)
             {
                 return RedirectToAction("Index");
