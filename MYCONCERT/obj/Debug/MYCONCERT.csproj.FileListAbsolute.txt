@@ -49,3 +49,4 @@ D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Mvc.resources.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
 D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
+D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache

@@ -15,7 +15,7 @@ namespace MYCONCERT.Controllers
         }
 
         public ActionResult RegistrarUsuario() {
-            System.Diagnostics.Debug.WriteLine("Surprise Madafucker");
+            System.Diagnostics.Debug.WriteLine("Surprise Madafucker2");
             return View();
         }
     }
