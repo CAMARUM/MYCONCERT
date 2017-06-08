@@ -105,3 +105,5 @@ C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\NE
 C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.dll
 C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\NEGOCIOS.pdb
 C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.pdb
+C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Newtonsoft.Json.dll
+C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Newtonsoft.Json.xml

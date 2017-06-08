@@ -6,6 +6,8 @@ using System.Web.Mvc;
 using System.Threading.Tasks;
 using MYCONCERT.Models;
 using NEGOCIOS;
+using Newtonsoft.Json;
+
 namespace MYCONCERT.Controllers
 {
     public class LoginController : Controller
@@ -23,8 +25,10 @@ namespace MYCONCERT.Controllers
             {
                 return View(pModel);
             }
-            var result = _paisNegocio.registrar("hola");
-            System.Diagnostics.Debug.WriteLine(result);
+            string json = JsonConvert.SerializeObject(pModel);
+
+            var result = _paisNegocio.registrar(json);
+            System.Diagnostics.Debug.WriteLine(json);
             if (result == 1)
             {
                 return RedirectToAction("Index");
