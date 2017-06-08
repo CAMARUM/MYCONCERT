@@ -85,11 +85,9 @@
     </EntityDeploy>
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="MyConcertDataModel.edmx.diagram">
       <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
     </None>
-    <None Include="packages.config" />
     <None Include="Settings1.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings1.Designer.cs</LastGenOutput>

@@ -141,6 +141,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Model_Actividad.cs" />
+    <Compile Include="Models\Model_Cartelera.cs" />
     <Compile Include="Models\Model_Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -158,6 +160,7 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Login\RegistrarUsuario.cshtml" />
+    <Content Include="Views\Actvidades\CarteleraFanatico.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
