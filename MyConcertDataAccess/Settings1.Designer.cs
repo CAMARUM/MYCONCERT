@@ -25,8 +25,8 @@ namespace MyConcertDataAccess {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=localhost\\SQLEXPRESS;Initial Catalog=MyConcertDB;Integrated Security=" +
-            "True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=BIBLIO-74389\\MSSQLSERVER2014;Initial Catalog=MyConcertDB;Persist Secu" +
+            "rity Info=True;User ID=sa")]
         public string Setting {
             get {
                 return ((string)(this["Setting"]));
