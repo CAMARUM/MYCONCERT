@@ -101,3 +101,7 @@ C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es
 C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache
 C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
 C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
+C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\NEGOCIOS.dll
+C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.dll
+C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\NEGOCIOS.pdb
+C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.pdb

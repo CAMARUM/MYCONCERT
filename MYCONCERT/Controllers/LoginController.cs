@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Threading.Tasks;
 using MYCONCERT.Models;
-using MYCONCERT.Negocio;
+using NEGOCIOS;
 namespace MYCONCERT.Controllers
 {
     public class LoginController : Controller
@@ -15,18 +15,16 @@ namespace MYCONCERT.Controllers
         public ActionResult Index()
         {
             return View();
-            
         }
 
-        public ActionResult RegistrarUsuario(LoginViewModel model) {
+        public ActionResult RegistrarUsuario(LoginViewModel pModel) {
             System.Diagnostics.Debug.WriteLine("Surprise Madafucker");
             if (!ModelState.IsValid)
             {
-                return View(model);
+                return View(pModel);
             }
-            System.Diagnostics.Debug.WriteLine("Entro Entro");
-
-            var result = _paisNegocio.getPaisAll(model);
+            var result = _paisNegocio.registrar("hola");
+            System.Diagnostics.Debug.WriteLine(result);
             if (result == 1)
             {
                 return RedirectToAction("Index");
