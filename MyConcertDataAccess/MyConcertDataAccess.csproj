@@ -70,6 +70,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="app.config" />
     <None Include="MyConcertDBDataSet.xsc">
       <DependentUpon>MyConcertDBDataSet.xsd</DependentUpon>
@@ -84,6 +85,18 @@
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
+=======
+    <EntityDeploy Include="MyConcertDataModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>MyConcertDataModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MyConcertDataModel.edmx.diagram">
+      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
+    </None>
+    <None Include="Settings1.settings">
+>>>>>>> origin/master
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
