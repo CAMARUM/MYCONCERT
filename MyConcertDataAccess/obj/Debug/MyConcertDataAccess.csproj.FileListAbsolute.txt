@@ -18,3 +18,12 @@ C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MyConcertDataAcc
 C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.csprojResolveAssemblyReference.cache
 C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.dll
 C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.pdb
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\bin\Debug\MyConcertDataAccess.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\bin\Debug\MyConcertDataAccess.pdb
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MyConcertDataAccess\obj\Debug\MyConcertDataAccess.pdb

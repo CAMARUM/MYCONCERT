@@ -1,113 +1,62 @@
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\ApplicationInsights.config
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\csc.exe
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\System.Collections.Immutable.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\System.Reflection.Metadata.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\vbc.exe
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe.config
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll.config
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\MYCONCERT.pdb
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Agent.Intercept.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.Web.Infrastructure.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Razor.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Razor.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.xml
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Razor.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Deployment.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Razor.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Helpers.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\bin\es\System.Web.Mvc.resources.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
-<<<<<<< HEAD
-D:\Documentos\Especificacion y Diseño\PROYECTO\REPO\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache
-=======
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\ApplicationInsights.config
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\csc.exe
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\vbc.exe
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll.config
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MYCONCERT.pdb
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Razor.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Razor.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.xml
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es\System.Web.Razor.resources.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.resources.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Deployment.resources.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Razor.resources.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es\System.Web.Helpers.resources.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\bin\es\System.Web.Mvc.resources.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
-C:\Users\estadm\Documents\Visual Studio 2015\Projects\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
-C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\NEGOCIOS.dll
-C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.dll
-C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\NEGOCIOS.pdb
-C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.pdb
-C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Newtonsoft.Json.dll
-C:\Users\estadm\documents\visual studio 2015\Projects\MYCONCERT\MYCONCERT\bin\Newtonsoft.Json.xml
->>>>>>> 76daf888dc6d9c0820297758a5722ec7e5b89357
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\ApplicationInsights.config
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\csc.exe
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\vbc.exe
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll.config
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\MYCONCERT.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\MYCONCERT.pdb
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\NEGOCIOS.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Newtonsoft.Json.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Razor.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\NEGOCIOS.pdb
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.Web.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\Newtonsoft.Json.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Razor.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Webpages.Razor.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Helpers.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\System.Web.Mvc.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\MyConcertDataAccess.pdb
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Razor.resources.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.resources.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Helpers.resources.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\es\System.Web.Mvc.resources.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.pdb
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\obj\Debug\MYCONCERT.csprojResolveAssemblyReference.cache
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\EntityFramework.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\EntityFramework.SqlServer.dll
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\EntityFramework.xml
+C:\Users\crist\Source\Repos\MYCONCERT\MYCONCERT\bin\EntityFramework.SqlServer.xml

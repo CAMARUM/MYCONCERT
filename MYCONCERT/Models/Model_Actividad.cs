@@ -5,7 +5,8 @@ using System.Web;
 
 namespace MYCONCERT.Models
 {
-    public class Model_Actividad
+    public class ActividadViewModel
+
     {
         public int idActividad { get; set; }
         public bool tipoActividad { get; set; }
