@@ -52,25 +52,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clasePrueba.cs" />
-    <Compile Include="MyConcertDataModel.Designer.cs">
+    <Compile Include="MyConcertDBDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="PaisModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PaisModel.tt</DependentUpon>
+      <DependentUpon>MyConcertDBDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="P_V_Colaborador_Result.cs">
-      <DependentUpon>PaisModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="P_V_Fanatico_Result.cs">
-      <DependentUpon>PaisModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="P_V_Pais_Result.cs">
-      <DependentUpon>PaisModel.tt</DependentUpon>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Settings1.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -79,28 +70,29 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EntityDeploy Include="MyConcertDataModel.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>MyConcertDataModel.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="app.config" />
-    <None Include="MyConcertDataModel.edmx.diagram">
-      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
+    <None Include="MyConcertDBDataSet.xsc">
+      <DependentUpon>MyConcertDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MyConcertDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyConcertDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyConcertDBDataSet.xss">
+      <DependentUpon>MyConcertDBDataSet.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Settings1.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="PaisModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>PaisModel.cs</LastGenOutput>
-      <DependentUpon>MyConcertDataModel.edmx</DependentUpon>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
