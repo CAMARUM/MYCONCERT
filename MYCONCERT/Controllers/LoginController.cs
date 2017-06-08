@@ -19,6 +19,7 @@ namespace MYCONCERT.Controllers
             return View();
         }
 
+
         public ActionResult RegistrarUsuario(LoginViewModel pModel) {
             System.Diagnostics.Debug.WriteLine("Surprise Madafucker");
             if (!ModelState.IsValid)
@@ -37,6 +38,7 @@ namespace MYCONCERT.Controllers
             {
                 return RedirectToAction("Index");
             }
+
         }
     }
 }

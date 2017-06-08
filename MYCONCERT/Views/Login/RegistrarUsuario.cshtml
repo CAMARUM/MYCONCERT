@@ -19,7 +19,7 @@
             <div class="col-sm-3"></div>
             <div class="col-sm-5">
                 <center>
-                    <h1><p class="text-danger">REGISTRO</p></h1>
+                    <h1 class="text-danger">REGISTRO</h1>
                 </center>
             </div>
             <br>
@@ -33,8 +33,7 @@
                         <div class="col-sm-5">
                             <div class="input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-user" style="color:#46C6E6"></span></span>
-                                <input type="text" class="form-control" placeholder="Nombre de Usuario" required>
-                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Nombre de Usuario", required = "required"}) 
                             </div>
                         </div>
                     </div>
@@ -44,8 +43,8 @@
                         <div class="col-sm-3"></div>
                         <div class="col-sm-5">
                             <div class="input-group">
-                                <span class="input-group-addon"><span class="glyphicon glyphicon-lock" style="color:#46C6E6"></span></span>
-                                <input type="text" class="form-control" placeholder="Apellido" required>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-user" style="color:#46C6E6"></span></span>
+                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Apellido", required = "required" })
                             </div>
                         </div>
                     </div>
@@ -56,8 +55,8 @@
                         <div class="col-sm-3"></div>
                         <div class="col-sm-5">
                             <div class="input-group">
-                                @*<span class="input-group-addon"><span class="glyphicon glyphicon-lock" style="color:#46C6E6"></span></span>
-                                <input type="email" class="form-control" placeholder="Email" style="width:100%" required>*@
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-user" style="color:#46C6E6"></span></span>
+                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", Type="Email", placeholder = "Email", required = "required" })
                             </div>
                         </div>
                     </div>
