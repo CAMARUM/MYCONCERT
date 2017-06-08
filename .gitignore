@@ -51,3 +51,13 @@ Temporary Items
 MYCONCERT/obj/Debug/MYCONCERT.csprojResolveAssemblyReference.cache
 .vs/config/applicationhost.config
 .vs/config/applicationhost.config
+.vs/MYCONCERT/v14/.suo
+*.dll
+*.xml
+*.exe
+*.pdb
+*.cache
+*.csproj
+*.csproj
+*.cache
+*.txt
